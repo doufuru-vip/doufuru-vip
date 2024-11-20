@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>91制片厂官网下载</title>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<style type="text/css">
+			* {
+				margin: 0;
+				padding: 0;
+				color:#4D5656;
+			}
+			body {
+				background-color: #ecf0f3;
+			}
+			.container {
+				width: 90%;
+				height: 100%;
+				position: relative;
+				z-index: 1;
+				max-width: 640px;
+				min-width: 320px;
+				margin: 0 auto;
+				
+			}
+			.content {
+				
+				margin-top:20px;
+				
+			}
+			.content section{
+				position: absolute;
+				opacity: 0;
+				transition: .4s ease-out;
+			}
+			.content section.active-section{
+				opacity: 1;
+			}
+			.main {
+				width: 100%;
+				height: 100%;
+				z-index:1;
+				display:inline-block;
+				position:relative;
+				overflow: hidden;
+				border-radius: 10px;
+			}
+			.bgt {
+				background-repeat: no-repeat;
+				background-size: cover;
+				width:100%;
+			}
+			.box{
+				margin-top:10px;
+				border-radius: 15px;
+				padding:10px;
+				margin-bottom:10px;
+				background: #fff;
+			}
+			#boxs{
+				margin:0px;
+				height: 100%;
+				overflow-x: hidden;
+			}
+			#boxs::-webkit-scrollbar{
+				width: 5px;
+				height: 5px;
+			}
+			#boxs::-webkit-scrollbar-track{
+				border-radius: 12px;
+				background-color: #eee;
+			}
+			#boxs::-webkit-scrollbar-thumb{
+				border-radius: 12px;
+				background-color: #aaa;
+			}
+			.web{
+				width:90%;
+				height:20px;
+				text-align:center;
+				background: #fb7299;
+				box-shadow:0 2px 5px rgba(0,0,0,.15);
+				margin:0 auto;
+				margin-top:0px;
+				margin-bottom:10px;
+				padding:10px;
+				border-radius:5px;
+				font-size:15px;
+				font-weight: bold;
+				color: #fff;
+			}
+			.tips{
+				width:90%;
+				border-bottom-right-radius: 2px;
+				border-left: 4px solid red;
+				border-top-right-radius: 2px;
+
+				//text-align:center;
+				padding: 3px;
+				position: relative;
+				background-color: #f8f8f8;
+				font-size:12px;
+			}
+			.A {
+				text-decoration: none;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="content">
+				<section class="home-me-section active-section">
+					<div class="main">
+					
+						<center><h1 style="background-color:#a6a6a6; color: #fff; padding: 2vw; font-size: 16px">91制片厂官网下载</h1></center>
+
+						
+						<div id="android_show" style="display:block;">
+						<div class="box">
+							<div id="boxs">
+								<div class="track-list">
+									<ul>
+										<a href="javascript:;" target="_self" class="A"><div class="web">永久播放</div></a>
+										
+										
+
+									</ul>
+								</div>
+							</div>
+						</div>
+						</div>
+						
+						<div id="ios_show" style="display:block;">
+						<div class="box">
+							<div id="boxs">
+								<div class="track-list">
+									<ul>
+										<a href="javascript:;" target="_self" class="A" onclick="ios()"><div class="web">动漫播放</div></a>
+										
+
+									</ul>
+								</div>
+							</div>
+						</div>
+						</div>
+
+						<div id="wxtips_show" style="display:none;">
+    						<div class="box">
+    							<div id="boxs">
+    								<img src="/img/wxtips.png" width="100%" height="100%">
+    							</div>
+    						</div>
+						</div>
+						
+						<div class="box">
+							<div id="boxs">
+								<div class="layui-carousel" id="ID-image" style="margin: auto; border-radius: 25px; width: 280px; height: 100%;" lay-anim="fade" lay-indicator="inside" lay-arrow="hover">
+									<div carousel-item="" style="border-radius: 25px;">
+										<div class="layui-this"><img src="../static/picture/O1CN01SQ0nqR1zblfY3NvyT_!!2217255426733-0-cib.jpg" width="100%" height="100%"></div>
+
+										
+									</div>
+								
+							</div>
+						</div>
+						
+					</div>
+
+
+
+       <div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">麻豆传媒 - 百度百科</div><div class="tips">编辑. 2021年1月以来，犯罪嫌疑人孙某、罗某等利用 境外 聊天软件 Telegram 和Potato与涉黄APP“九一视频”“麻豆传媒”的工作人员联络，确定 剧本 、 片酬，并组织 拍摄 、 剪辑  …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">IntelliJ IDEA – 领先的 Java 和 Kotlin IDE</div><div class="tips">IntelliJ IDEA 毫无疑问是软件开发者的首选 IDE。 It makes Java and Kotlin development a more productive and enjoyable experience.</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">91制片厂果冻传媒app下载-91制片厂果冻传媒(潘甜甜)官网版 ...</div><div class="tips">2024年7月26日— 亚排联沙滩排球洲际杯：中国男队憾失巴黎奥运会入场券91制片厂果冻传媒app下载-91制片厂果冻传媒(潘甜甜)官网版 “从理论上讲，农林复合是不会造成荒漠化 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">91制片厂app官方版下载_91制片厂app下载安装v1_3DM手游</div><div class="tips">2024年1月27日— 91制片厂app官方版介绍 1、根据观看历史等行为分析你的喜好，推送更多你想看的视频; 2、支持全网电影智能搜索，一键搜索即时匹配所需资源; 3、更新后的内 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">91制片厂最新版下载_91制片厂最新安卓官方版下载安装v1 ...</div><div class="tips">2024年1月29日— 91制片厂最新版一款看视频软件！91制片厂最新版带来了很多丰富精彩的视频，这些视频都是十分丰富的，内容也是相当精彩，咱们将可以在这里自由观看各种丰 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">91制片厂app下载-91制片厂正版 1.6.0 安卓版-撑船人</div><div class="tips">2024年7月20日— 91制片厂app是一款全方位全覆盖最顶级的传媒影片制作厂，为你提供各种各样高清传媒影视资源，并且没有任何限制次数随时都可以在线观看。 在91制片厂里每 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">冲啊！新影院入驻青浦宝龙，试营业期间免费观影_澎湃号&#183; ...</div><div class="tips">1 天前— 近日，青浦宝龙广场喜迎上新店铺，中影星河影城正式入驻宝龙商圈，经过焕新升级，打造全新舒适的观影环境，让不少周边市民直呼：“家门口的影院又回来了！. 中影星 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">91制片厂官方版下载_91制片厂App安卓版1.0_大番茄</div><div class="tips">2024年7月24日— 91制片厂在线官方版下载为大家带来了很多精彩的视频资源内容，各种好看的视频都能在这里看到!专为每位用户量身打造，为你智能推荐你喜欢 大番茄 - 免费好玩 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">91制片厂app软件下载-91制片厂安卓版 v1.0.2 - 七度博客</div><div class="tips">2023年9月1日— 91制片厂安卓版中有很多题材和类型的视频资源，比如说户外、家庭、剧情、科幻、漫改、生活、综艺等等，能够满足广大男士朋友们的各种需求。</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">91制片厂修改版下载-91制片厂果冻传媒 v1.0.2 - 七度博客</div><div class="tips">2023年9月1日— 91制片厂破解版是一款超棒的视频资源播放手机软件。. 不知道各位小伙伴们知不知道91系列的软件，或者听说过，这个系列的软件都非常的不错，相信各位老司机 …</div></ul></div></div>
+</div></div>
+
+
+
+
+
+
+						
+
+
+
+					
+	<div>
+                        <a href="../92/index.html">随机文章</a>
+                        <a href="../105/index.html">随机文章2</a>
+
+						</div>				
+					
+					
+				</div></section>
+			</div>
+		</div>
+
+		
+		
+
+		<script>
+			layui.use(['carousel'],function(){
+				var carousel = layui.carousel;
+					carousel.render({
+					elem: '#ID-image',
+					width: 280,
+					height: 100%,
+					anim:'fade',
+					interval: 2000
+				});
+			});
+		</script>
+	
+
+</body></html>

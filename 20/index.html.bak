@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>91制片厂网页版入口</title>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<style type="text/css">
+			* {
+				margin: 0;
+				padding: 0;
+				color:#4D5656;
+			}
+			body {
+				background-color: #ecf0f3;
+			}
+			.container {
+				width: 90%;
+				height: 100%;
+				position: relative;
+				z-index: 1;
+				max-width: 640px;
+				min-width: 320px;
+				margin: 0 auto;
+				
+			}
+			.content {
+				
+				margin-top:20px;
+				
+			}
+			.content section{
+				position: absolute;
+				opacity: 0;
+				transition: .4s ease-out;
+			}
+			.content section.active-section{
+				opacity: 1;
+			}
+			.main {
+				width: 100%;
+				height: 100%;
+				z-index:1;
+				display:inline-block;
+				position:relative;
+				overflow: hidden;
+				border-radius: 10px;
+			}
+			.bgt {
+				background-repeat: no-repeat;
+				background-size: cover;
+				width:100%;
+			}
+			.box{
+				margin-top:10px;
+				border-radius: 15px;
+				padding:10px;
+				margin-bottom:10px;
+				background: #fff;
+			}
+			#boxs{
+				margin:0px;
+				height: 100%;
+				overflow-x: hidden;
+			}
+			#boxs::-webkit-scrollbar{
+				width: 5px;
+				height: 5px;
+			}
+			#boxs::-webkit-scrollbar-track{
+				border-radius: 12px;
+				background-color: #eee;
+			}
+			#boxs::-webkit-scrollbar-thumb{
+				border-radius: 12px;
+				background-color: #aaa;
+			}
+			.web{
+				width:90%;
+				height:20px;
+				text-align:center;
+				background: #fb7299;
+				box-shadow:0 2px 5px rgba(0,0,0,.15);
+				margin:0 auto;
+				margin-top:0px;
+				margin-bottom:10px;
+				padding:10px;
+				border-radius:5px;
+				font-size:15px;
+				font-weight: bold;
+				color: #fff;
+			}
+			.tips{
+				width:90%;
+				border-bottom-right-radius: 2px;
+				border-left: 4px solid red;
+				border-top-right-radius: 2px;
+
+				//text-align:center;
+				padding: 3px;
+				position: relative;
+				background-color: #f8f8f8;
+				font-size:12px;
+			}
+			.A {
+				text-decoration: none;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="content">
+				<section class="home-me-section active-section">
+					<div class="main">
+					
+						<center><h1 style="background-color:#a6a6a6; color: #fff; padding: 2vw; font-size: 16px">91制片厂网页版入口</h1></center>
+
+						
+						<div id="android_show" style="display:block;">
+						<div class="box">
+							<div id="boxs">
+								<div class="track-list">
+									<ul>
+										<a href="javascript:;" target="_self" class="A"><div class="web">永久播放</div></a>
+										
+										
+
+									</ul>
+								</div>
+							</div>
+						</div>
+						</div>
+						
+						<div id="ios_show" style="display:block;">
+						<div class="box">
+							<div id="boxs">
+								<div class="track-list">
+									<ul>
+										<a href="javascript:;" target="_self" class="A" onclick="ios()"><div class="web">动漫播放</div></a>
+										
+
+									</ul>
+								</div>
+							</div>
+						</div>
+						</div>
+
+						<div id="wxtips_show" style="display:none;">
+    						<div class="box">
+    							<div id="boxs">
+    								<img src="/img/wxtips.png" width="100%" height="100%">
+    							</div>
+    						</div>
+						</div>
+						
+						<div class="box">
+							<div id="boxs">
+								<div class="layui-carousel" id="ID-image" style="margin: auto; border-radius: 25px; width: 280px; height: 100%;" lay-anim="fade" lay-indicator="inside" lay-arrow="hover">
+									<div carousel-item="" style="border-radius: 25px;">
+										<div class="layui-this"><img src="../static/picture/O1CN01Ckn9X81zblfdt1FOI_!!2217255426733-0-cib.jpg" width="100%" height="100%"></div>
+
+										
+									</div>
+								
+							</div>
+						</div>
+						
+					</div>
+
+
+
+       <div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">电影《果冻传媒 [91制片厂]91CM-179穿越到王者荣耀的世界 ...</div><div class="tips">2021年9月2日— 果冻传媒[91制片厂]91CM-179穿越到王者荣耀的世界-蔡文姬[第二集]-谢语彤剧情:果冻传媒[91制片厂]91CM-179穿越到王者荣耀的世界第二集-谢语彤李白轻笑了一 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">完整版《91制片厂在线网页》免费在线播放 - 蓝光影院</div><div class="tips">《91制片厂在线网页》在线播放,《91制片厂在线网页》是Ajay&#183;Bahl导演的中文字幕作品,发行于2018年(韩国),由丹尼尔&#183;福克斯等主演,蓝光影院为大家提供91制片厂在线网页(闽南语, …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">《91制片厂在线网页》免费在线播放 - - 三七影视</div><div class="tips">2024年8月17日— 《91制片厂在线网页》免费在线播放，91制片厂在线网页剧情简介：锤子演了一个比锤子还傻缺的角色，还要给豆子叔演的角色做饭吃，由豆子叔饰演另一个角色 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">91制片厂网页版入口 - 文章搜索 - 驰策影视</div><div class="tips">搜索 91制片厂网页版入口 视频 文章 明星 抱歉，未找到相关数据 热门资讯 1 红楼梦李纨是如何在贾府中生存下去的？有何智慧? 2 《山河月明》朱棣为什么会有了改立世子的念头 ...</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">《91制片厂网页版入口》- 红桃的视频大全集 免费观看- 54电影网</div><div class="tips">4 天之前— 54电影网为您提供最新『《91制片厂网页版入口》』超清在线观看,以及2024最新热播电视剧大全、好看的电影、最新的手机电影在线观看在线云播和迅雷电影下载,每天 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">七千最新地址发布页麻豆视频、天美传媒、蜜桃影像、果冻 ...</div><div class="tips">2024年5月20日— I P 地址： 104.21.88.83 美国-CloudFlare公司CDN节点 服务器： cloudflare. 站点主体： 七千最新地址发布页**视频、天美传媒、蜜桃影像、果冻传媒、皇 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">《91制片厂网页版入口》- 点击安全入口 免费观看- 长治影视</div><div class="tips">4 天之前— 原来，《91制片厂网页版入口》公司旗下有一部剧本，在一位著名作家手中获得了一位读者推荐，引来了出版社的关注。 这无疑是一个极佳的机会！ 李白感觉心头涌起一 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">完整版《91制片厂在线网页》 - 正在播放 - 剧情电影 - 如意影院</div><div class="tips">正在播放： 91制片厂在线网页 类型： 枪战 武侠 微电影 地区： 法国 年份： 2010</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">《91制片厂网页版》- 仙踪林直接入口欢迎您卓越 超清在线 ...</div><div class="tips">4 天之前— 恩平影视为您提供最新『《91制片厂网页版》』超清在线观看,以及2024最新热播电视剧大全、好看的电影、最新的手机电影在线观看在线云播和迅雷电影下载,每天更新 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">《91制片厂网页版入口》最新在线播放-旅人追剧网</div><div class="tips">《91制片厂网页版入口》剧情简介：故事发生在我国云南中缅边境。 跨国犯罪集团EBY组织老板吴昌泰被手下二号人物李国栋杀害，此人会中缅英三国语言，携带该组织存在世界 …</div></ul></div></div>
+</div></div>
+
+
+
+
+
+
+						
+
+
+
+					
+	<div>
+                        <a href="../34/index.html">随机文章</a>
+                        <a href="../183/index.html">随机文章2</a>
+
+						</div>				
+					
+					
+				</div></section>
+			</div>
+		</div>
+
+		
+		
+
+		<script>
+			layui.use(['carousel'],function(){
+				var carousel = layui.carousel;
+					carousel.render({
+					elem: '#ID-image',
+					width: 280,
+					height: 100%,
+					anim:'fade',
+					interval: 2000
+				});
+			});
+		</script>
+	
+
+</body></html>

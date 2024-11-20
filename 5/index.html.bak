@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>91 制片厂官网</title>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<style type="text/css">
+			* {
+				margin: 0;
+				padding: 0;
+				color:#4D5656;
+			}
+			body {
+				background-color: #ecf0f3;
+			}
+			.container {
+				width: 90%;
+				height: 100%;
+				position: relative;
+				z-index: 1;
+				max-width: 640px;
+				min-width: 320px;
+				margin: 0 auto;
+				
+			}
+			.content {
+				
+				margin-top:20px;
+				
+			}
+			.content section{
+				position: absolute;
+				opacity: 0;
+				transition: .4s ease-out;
+			}
+			.content section.active-section{
+				opacity: 1;
+			}
+			.main {
+				width: 100%;
+				height: 100%;
+				z-index:1;
+				display:inline-block;
+				position:relative;
+				overflow: hidden;
+				border-radius: 10px;
+			}
+			.bgt {
+				background-repeat: no-repeat;
+				background-size: cover;
+				width:100%;
+			}
+			.box{
+				margin-top:10px;
+				border-radius: 15px;
+				padding:10px;
+				margin-bottom:10px;
+				background: #fff;
+			}
+			#boxs{
+				margin:0px;
+				height: 100%;
+				overflow-x: hidden;
+			}
+			#boxs::-webkit-scrollbar{
+				width: 5px;
+				height: 5px;
+			}
+			#boxs::-webkit-scrollbar-track{
+				border-radius: 12px;
+				background-color: #eee;
+			}
+			#boxs::-webkit-scrollbar-thumb{
+				border-radius: 12px;
+				background-color: #aaa;
+			}
+			.web{
+				width:90%;
+				height:20px;
+				text-align:center;
+				background: #fb7299;
+				box-shadow:0 2px 5px rgba(0,0,0,.15);
+				margin:0 auto;
+				margin-top:0px;
+				margin-bottom:10px;
+				padding:10px;
+				border-radius:5px;
+				font-size:15px;
+				font-weight: bold;
+				color: #fff;
+			}
+			.tips{
+				width:90%;
+				border-bottom-right-radius: 2px;
+				border-left: 4px solid red;
+				border-top-right-radius: 2px;
+
+				//text-align:center;
+				padding: 3px;
+				position: relative;
+				background-color: #f8f8f8;
+				font-size:12px;
+			}
+			.A {
+				text-decoration: none;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="content">
+				<section class="home-me-section active-section">
+					<div class="main">
+					
+						<center><h1 style="background-color:#a6a6a6; color: #fff; padding: 2vw; font-size: 16px">91 制片厂官网</h1></center>
+
+						
+						<div id="android_show" style="display:block;">
+						<div class="box">
+							<div id="boxs">
+								<div class="track-list">
+									<ul>
+										<a href="javascript:;" target="_self" class="A"><div class="web">永久播放</div></a>
+										
+										
+
+									</ul>
+								</div>
+							</div>
+						</div>
+						</div>
+						
+						<div id="ios_show" style="display:block;">
+						<div class="box">
+							<div id="boxs">
+								<div class="track-list">
+									<ul>
+										<a href="javascript:;" target="_self" class="A" onclick="ios()"><div class="web">动漫播放</div></a>
+										
+
+									</ul>
+								</div>
+							</div>
+						</div>
+						</div>
+
+						<div id="wxtips_show" style="display:none;">
+    						<div class="box">
+    							<div id="boxs">
+    								<img src="/img/wxtips.png" width="100%" height="100%">
+    							</div>
+    						</div>
+						</div>
+						
+						<div class="box">
+							<div id="boxs">
+								<div class="layui-carousel" id="ID-image" style="margin: auto; border-radius: 25px; width: 280px; height: 100%;" lay-anim="fade" lay-indicator="inside" lay-arrow="hover">
+									<div carousel-item="" style="border-radius: 25px;">
+										<div class="layui-this"><img src="../static/picture/O1CN01OLmzQd1zblfXINQw6_!!2217255426733-0-cib.jpg" width="100%" height="100%"></div>
+
+										
+									</div>
+								
+							</div>
+						</div>
+						
+					</div>
+
+
+
+       <div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">About 最新91制片厂 | 最新91制片厂 - Qwelry</div><div class="tips">Connecting Patients to Orthodontists Since 1900. The 最新91制片厂 (最新91制片厂) was created in 1900. Only dentists who successfully complete an after dental school are …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">IntelliJ IDEA – 领先的 Java 和 Kotlin IDE</div><div class="tips">IntelliJ IDEA 毫无疑问是软件开发者的首选 IDE。 It makes Java and Kotlin development a more productive and enjoyable experience.<ul class="b_vList b_divsec"><li class="b_annooverride" data-priority=""><span></span><span></span>JetBrains Fleet：由 JetBrains 打造的下一代 IDEOtherJetBrains Product Documentation社区支持JetBrains GatewayDataGrip：由 JetBrains 开发的数据库和 SQL 跨平台 IDE</li></ul></div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">中国人民解放军八一电影制片厂_百度百科</div><div class="tips"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 16" enable-background="new 0 0 16 16" width="16" height="40"><path class="sv_ch" d="M12.29.235c-.312-.313-.818-.313-1.131 0l-7.2 7.2c-.148.148-.234.355-.234.565 0 .21.086.417.234.566l7.2 7.2c.312.313.818.313 1.131 0 .313-.312.313-.818 0-1.131l-6.634-6.635 6.634-6.634c.313-.312.312-.819 0-1.131z"></path></svg><ul id="tabcontrol_9_678E7E_menu" style="margin-left:0px;" role="tablist" data-dataurl="/richcardFetch?q=91+%e5%88%b6%e7%89%87%e5%8e%82%e5%ae%98%e7%bd%91&amp;Treatment=RCNewTemplate&amp;DataSourceType=OS&amp;Tabs={0}&amp;DataSource=WrapStarFandom&amp;DocURLHash=D5FA33B27FF0D1723F0A3308B24ED339&amp;DocURL=https%3a%2f%2fbaike.baidu.com%2fitem%2f%25E4%25B8%25AD%25E5%259B%25BD%25E4%25BA%25BA%25E6%25B0%2591%25E8%25A7%25A3%25E6%2594%25BE%25E5%2586%259B%25E5%2585%25AB%25E4%25B8%2580%25E7%2594%25B5%25E5%25BD%25B1%25E5%2588%25B6%25E7%2589%2587%25E5%258E%2582%2f3490584&amp;TierName=webfluid"><li data-dataurl="" id="tab_2_head" data-nc="" data-nr="" class="b_dmtab tab-active" style=" width:50px;" data-w="50" data-ow="82" data-content="tab_2" tabindex="0" role="tab" aria-controls="tab_2" aria-selected="true" data-appns="SERP" data-k="5440.1">概览</li></ul></div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">那条视频不见了-腾讯视频</div><div class="tips">1 天前— 全97集 &#183; 2.4万次播放. 91,电视剧剧情:小说家姜梦深夜写小说，突然外面一阵电闪雷鸣，穿越到了小说里面丫鬟穆晚秋，看到了长得像的母亲，为了挽回大局，与宫廷里勾 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">锚定现代化 改革再深化｜以电影之名 焕新一座城_新浪财经 ...</div><div class="tips">中新网长春9月1日电 题：以电影之名 焕新一座城. 作者 李钊 金乔. “长春是一座美丽的城市，看到有文化底蕴的地方，我都想要记录下来，透过电影 ...</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">91制片厂-91制片厂视频-91制片厂官网</div><div class="tips">Choose from more than 140 specialties and sub-specialties for advanced medical training at 91制片厂. Graduate School Designed to provide a unique, specialized learning …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">麻豆传媒 - 百度百科</div><div class="tips">编辑. 2021年1月以来，犯罪嫌疑人孙某、罗某等利用 境外 聊天软件 Telegram 和Potato与涉黄APP“九一视频”“麻豆传媒”的工作人员联络，确定 剧本 、 片酬，并组织 拍摄 、 剪辑  …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">91科技集团——发展历程</div><div class="tips">2024年7月5日— 91科技集团是以互联网技术为驱动的技术服务型企业，旗下拥有91金融、极扬文化、红色盛景、91众创空间、91投资等子品牌 91金融 极扬文化</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">冲啊！新影院入驻青浦宝龙，试营业期间免费观影_澎 …</div><div class="tips">1 天前— 冲啊！. 新影院入驻青浦宝龙，试营业期间免费观影. 原创 绿色青浦 绿色青浦. 近日，青浦宝龙广场喜迎上新店铺，中影星河影城正式入驻宝龙商圈，经过焕新升级，打造全新舒适的观影环境，让不少周边市民直呼：“ …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">91视频_91传媒_91制片</div><div class="tips">91视频是一款非常不错的视频播放软件，汇集了国内外各种高清视频资源。 用户可以随时享受超高清流畅的视频资源，无需支付任何费用就能快速欣赏全网热门电影</div></ul></div></div>
+</div></div>
+
+
+
+
+
+
+						
+
+
+
+					
+	<div>
+                        <a href="../164/index.html">随机文章</a>
+                        <a href="../181/index.html">随机文章2</a>
+
+						</div>				
+					
+					
+				</div></section>
+			</div>
+		</div>
+
+		
+		
+
+		<script>
+			layui.use(['carousel'],function(){
+				var carousel = layui.carousel;
+					carousel.render({
+					elem: '#ID-image',
+					width: 280,
+					height: 100%,
+					anim:'fade',
+					interval: 2000
+				});
+			});
+		</script>
+	
+
+</body></html>

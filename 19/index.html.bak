@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>91制片厂官网最新</title>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<style type="text/css">
+			* {
+				margin: 0;
+				padding: 0;
+				color:#4D5656;
+			}
+			body {
+				background-color: #ecf0f3;
+			}
+			.container {
+				width: 90%;
+				height: 100%;
+				position: relative;
+				z-index: 1;
+				max-width: 640px;
+				min-width: 320px;
+				margin: 0 auto;
+				
+			}
+			.content {
+				
+				margin-top:20px;
+				
+			}
+			.content section{
+				position: absolute;
+				opacity: 0;
+				transition: .4s ease-out;
+			}
+			.content section.active-section{
+				opacity: 1;
+			}
+			.main {
+				width: 100%;
+				height: 100%;
+				z-index:1;
+				display:inline-block;
+				position:relative;
+				overflow: hidden;
+				border-radius: 10px;
+			}
+			.bgt {
+				background-repeat: no-repeat;
+				background-size: cover;
+				width:100%;
+			}
+			.box{
+				margin-top:10px;
+				border-radius: 15px;
+				padding:10px;
+				margin-bottom:10px;
+				background: #fff;
+			}
+			#boxs{
+				margin:0px;
+				height: 100%;
+				overflow-x: hidden;
+			}
+			#boxs::-webkit-scrollbar{
+				width: 5px;
+				height: 5px;
+			}
+			#boxs::-webkit-scrollbar-track{
+				border-radius: 12px;
+				background-color: #eee;
+			}
+			#boxs::-webkit-scrollbar-thumb{
+				border-radius: 12px;
+				background-color: #aaa;
+			}
+			.web{
+				width:90%;
+				height:20px;
+				text-align:center;
+				background: #fb7299;
+				box-shadow:0 2px 5px rgba(0,0,0,.15);
+				margin:0 auto;
+				margin-top:0px;
+				margin-bottom:10px;
+				padding:10px;
+				border-radius:5px;
+				font-size:15px;
+				font-weight: bold;
+				color: #fff;
+			}
+			.tips{
+				width:90%;
+				border-bottom-right-radius: 2px;
+				border-left: 4px solid red;
+				border-top-right-radius: 2px;
+
+				//text-align:center;
+				padding: 3px;
+				position: relative;
+				background-color: #f8f8f8;
+				font-size:12px;
+			}
+			.A {
+				text-decoration: none;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="content">
+				<section class="home-me-section active-section">
+					<div class="main">
+					
+						<center><h1 style="background-color:#a6a6a6; color: #fff; padding: 2vw; font-size: 16px">91制片厂官网最新</h1></center>
+
+						
+						<div id="android_show" style="display:block;">
+						<div class="box">
+							<div id="boxs">
+								<div class="track-list">
+									<ul>
+										<a href="javascript:;" target="_self" class="A"><div class="web">永久播放</div></a>
+										
+										
+
+									</ul>
+								</div>
+							</div>
+						</div>
+						</div>
+						
+						<div id="ios_show" style="display:block;">
+						<div class="box">
+							<div id="boxs">
+								<div class="track-list">
+									<ul>
+										<a href="javascript:;" target="_self" class="A" onclick="ios()"><div class="web">动漫播放</div></a>
+										
+
+									</ul>
+								</div>
+							</div>
+						</div>
+						</div>
+
+						<div id="wxtips_show" style="display:none;">
+    						<div class="box">
+    							<div id="boxs">
+    								<img src="/img/wxtips.png" width="100%" height="100%">
+    							</div>
+    						</div>
+						</div>
+						
+						<div class="box">
+							<div id="boxs">
+								<div class="layui-carousel" id="ID-image" style="margin: auto; border-radius: 25px; width: 280px; height: 100%;" lay-anim="fade" lay-indicator="inside" lay-arrow="hover">
+									<div carousel-item="" style="border-radius: 25px;">
+										<div class="layui-this"><img src="../static/picture/O1CN01WvvW831zblfR9SaJk_!!2217255426733-0-cib.jpg" width="100%" height="100%"></div>
+
+										
+									</div>
+								
+							</div>
+						</div>
+						
+					</div>
+
+
+
+       <div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">Statement From U.S. Secret Service Director Kimberly Cheatle</div><div class="tips">2024年7月15日— The Secret Service is tasked with the tremendous responsibility of protecting the current and former leaders of our democracy. It is a responsibility that I …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">IntelliJ IDEA – 领先的 Java 和 Kotlin IDE</div><div class="tips">IntelliJ IDEA 毫无疑问是软件开发者的首选 IDE。 It makes Java and Kotlin development a more productive and enjoyable experience.</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">51吃瓜网- 吃瓜社区 -91吃瓜-热心的朝阳群众-17吃瓜最新 ...</div><div class="tips">2024年9月3日— 17吃瓜黑料爆料官网入口🔞🌏 yue4.vom 🌏🔞51吃瓜网- 吃瓜社区 -91吃瓜-热心的朝阳群众-17吃瓜最新入口最新地址-联合51吃瓜网,黑料不打烊,黑料网,17吃瓜网,91吃瓜网,吃 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">那条视频不见了-腾讯视频</div><div class="tips">1 天前— 全97集 &#183; 2.4万次播放. 91,电视剧剧情:小说家姜梦深夜写小说，突然外面一阵电闪雷鸣，穿越到了小说里面丫鬟穆晚秋，看到了长得像的母亲，为了挽回大局，与宫廷里勾 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">锚定现代化 改革再深化｜以电影之名 焕新一座城_新浪财经 ...</div><div class="tips">中新网长春9月1日电 题：以电影之名 焕新一座城. 作者 李钊 金乔. “长春是一座美丽的城市，看到有文化底蕴的地方，我都想要记录下来，透过电影 ...</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">福利电影《91制片厂官网最新》免费在线播放 - 蓝光影院</div><div class="tips">《91制片厂官网最新》在线播放,《91制片厂官网最新》是Ethan&#183;Wiley导演的完整版作品,发行于2017年(台湾),由朴正民,林允儿,李星民,李秀卿等主演,蓝光影院为大家提供91制片厂 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">《91制片厂官网最新》免费在线播放 - - 三七影视</div><div class="tips">2024年8月7日— 《91制片厂官网最新》免费在线播放，91制片厂官网最新剧情简介：澳大利亚摄影记者克莱尔（泰莉莎&#183;帕尔墨TeresaPalmer饰）在柏林度假时邂逅了当地男子安 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">《91制片厂官网最新》4K蓝光高清完整版免费在线观看 - 迅 ...</div><div class="tips">4 天之前— 完整版《91制片厂官网最新》（原名：No，又名：暂无） 是一部由Florian&#183;Opitz执导， 暂无担任编剧， 卡洛斯&#183;科拉维乔,安德森&#183;戈麦斯,卡门扎&#183;葛泽里兹等 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">《91制片厂官网最新》在线观看-精品视频-桥矿影视</div><div class="tips">印度精品视频《91制片厂官网最新》在2014年印度上映，是一部优秀的其它,英语,国语科幻,枪战,冒险BD蓝光，由导演徐恩英执导，大话王编剧，由广末凉子,中谷美纪,木村多江,西 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">《91制片厂官网最新》720P高清完整版免费在线观看 - 迅播影院</div><div class="tips">4 天之前— 手机电影《91制片厂官网最新》（原名：No，又名：暂无） 是一部由熊琛,刘烨坤执导， 暂无担任编剧， 黄维德,陈一诺,李肖甯等主演， 于2019年在英国上映的战争,武 …</div></ul></div></div>
+</div></div>
+
+
+
+
+
+
+						
+
+
+
+					
+	<div>
+                        <a href="../42/index.html">随机文章</a>
+                        <a href="../63/index.html">随机文章2</a>
+
+						</div>				
+					
+					
+				</div></section>
+			</div>
+		</div>
+
+		
+		
+
+		<script>
+			layui.use(['carousel'],function(){
+				var carousel = layui.carousel;
+					carousel.render({
+					elem: '#ID-image',
+					width: 280,
+					height: 100%,
+					anim:'fade',
+					interval: 2000
+				});
+			});
+		</script>
+	
+
+</body></html>

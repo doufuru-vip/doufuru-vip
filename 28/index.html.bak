@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>diy101官网客服</title>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<style type="text/css">
+			* {
+				margin: 0;
+				padding: 0;
+				color:#4D5656;
+			}
+			body {
+				background-color: #ecf0f3;
+			}
+			.container {
+				width: 90%;
+				height: 100%;
+				position: relative;
+				z-index: 1;
+				max-width: 640px;
+				min-width: 320px;
+				margin: 0 auto;
+				
+			}
+			.content {
+				
+				margin-top:20px;
+				
+			}
+			.content section{
+				position: absolute;
+				opacity: 0;
+				transition: .4s ease-out;
+			}
+			.content section.active-section{
+				opacity: 1;
+			}
+			.main {
+				width: 100%;
+				height: 100%;
+				z-index:1;
+				display:inline-block;
+				position:relative;
+				overflow: hidden;
+				border-radius: 10px;
+			}
+			.bgt {
+				background-repeat: no-repeat;
+				background-size: cover;
+				width:100%;
+			}
+			.box{
+				margin-top:10px;
+				border-radius: 15px;
+				padding:10px;
+				margin-bottom:10px;
+				background: #fff;
+			}
+			#boxs{
+				margin:0px;
+				height: 100%;
+				overflow-x: hidden;
+			}
+			#boxs::-webkit-scrollbar{
+				width: 5px;
+				height: 5px;
+			}
+			#boxs::-webkit-scrollbar-track{
+				border-radius: 12px;
+				background-color: #eee;
+			}
+			#boxs::-webkit-scrollbar-thumb{
+				border-radius: 12px;
+				background-color: #aaa;
+			}
+			.web{
+				width:90%;
+				height:20px;
+				text-align:center;
+				background: #fb7299;
+				box-shadow:0 2px 5px rgba(0,0,0,.15);
+				margin:0 auto;
+				margin-top:0px;
+				margin-bottom:10px;
+				padding:10px;
+				border-radius:5px;
+				font-size:15px;
+				font-weight: bold;
+				color: #fff;
+			}
+			.tips{
+				width:90%;
+				border-bottom-right-radius: 2px;
+				border-left: 4px solid red;
+				border-top-right-radius: 2px;
+
+				//text-align:center;
+				padding: 3px;
+				position: relative;
+				background-color: #f8f8f8;
+				font-size:12px;
+			}
+			.A {
+				text-decoration: none;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="content">
+				<section class="home-me-section active-section">
+					<div class="main">
+					
+						<center><h1 style="background-color:#a6a6a6; color: #fff; padding: 2vw; font-size: 16px">diy101官网客服</h1></center>
+
+						
+						<div id="android_show" style="display:block;">
+						<div class="box">
+							<div id="boxs">
+								<div class="track-list">
+									<ul>
+										<a href="javascript:;" target="_self" class="A"><div class="web">永久播放</div></a>
+										
+										
+
+									</ul>
+								</div>
+							</div>
+						</div>
+						</div>
+						
+						<div id="ios_show" style="display:block;">
+						<div class="box">
+							<div id="boxs">
+								<div class="track-list">
+									<ul>
+										<a href="javascript:;" target="_self" class="A" onclick="ios()"><div class="web">动漫播放</div></a>
+										
+
+									</ul>
+								</div>
+							</div>
+						</div>
+						</div>
+
+						<div id="wxtips_show" style="display:none;">
+    						<div class="box">
+    							<div id="boxs">
+    								<img src="/img/wxtips.png" width="100%" height="100%">
+    							</div>
+    						</div>
+						</div>
+						
+						<div class="box">
+							<div id="boxs">
+								<div class="layui-carousel" id="ID-image" style="margin: auto; border-radius: 25px; width: 280px; height: 100%;" lay-anim="fade" lay-indicator="inside" lay-arrow="hover">
+									<div carousel-item="" style="border-radius: 25px;">
+										<div class="layui-this"><img src="../static/picture/O1CN01VlY84x2LjwGUukeLH_!!2213938759729-0-cib.jpg" width="100%" height="100%"></div>
+
+										
+									</div>
+								
+							</div>
+						</div>
+						
+					</div>
+
+
+
+       <div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">客服 - 10010.com</div><div class="tips">短信客服 全天候提供业务支撑</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">diy101怎么找官网_百度问一问</div><div class="tips">2023年4月4日— 可以通过DIY101的客服渠道，如电话、邮箱或在线客服等，向客服人员咨询官网链接。 总之，找到DIY101官网的方法有很多，只要您耐心搜索或咨询，一定能找到 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">DIY101 - 百度贴吧</div><div class="tips">百度贴吧-DIY101专题，为您展现优质的DIY101各类信息，在这里您可以找到关于DIY101的相关内容及最新的DIY101贴子</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">diy101怎么找官网_百度问一问</div><div class="tips">2023年12月27日— 在DIY101产品包装盒或者说明书中查找官网地址，或者联系DIY101客服获取官网链接。 需要注意的是，由于DIY101可能有多个国家或地区的官网，因此在搜索时 …<ul><li>答复数: 1</li></ul></div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">diy101视频网页版怎么进 - 百度知道</div><div class="tips">2024年1月19日— 这是一个百度知道的问题，回答了如何通过浏览器访问diy101的视频网页版。回答还提供了diy101网站的不同地区或网络环境的情况，以及其他相关问题的链接。<ul><li>答复数: 1</li></ul></div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">联系客服 - 101 SCRM</div><div class="tips">☎️ 联系客服 Powered by GitBook ☎️ 联系客服 101 SCRM渠道 联系方式 官方 频道 @huashuo101 官方客服 @hskj101 Previous 文转音 Last updated 5 months ago On this …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">diy101.net</div><div class="tips">diy101.net</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">调查| 打400电话竟招来骗子？“官方热线”未必是真官方</div><div class="tips">2024年1月4日— 家电出现故障，很多人会选择上网搜索品牌客服电话。然而，看似正规的400电话未必都是真正的官方热线，所谓的上门维修也可能处处是坑。记者调查发 …</div></ul></div></div>
+</div></div>
+
+
+<div id="ios_show" style="display:block;">
+<div class="box">
+<div id="boxs">
+<div class="track-list">
+<ul>
+<div id="tick">为什么找不到DIY101的官网呢？ - 百度知道</div><div class="tips">2024年1月28日— 访问限制 ：如果您所在的地区或网络环境存在限制访问某些网站的情况，也可能导致您找不到DIY101。. 可以尝试通过代理或者其他网络环境访问。. 需要注意的 …<ul><li>答复数: 1</li></ul></div></ul></div></div>
+</div></div>
+
+
+
+
+
+
+						
+
+
+
+					
+	<div>
+                        <a href="../35/index.html">随机文章</a>
+                        <a href="../75/index.html">随机文章2</a>
+
+						</div>				
+					
+					
+				</div></section>
+			</div>
+		</div>
+
+		
+		
+
+		<script>
+			layui.use(['carousel'],function(){
+				var carousel = layui.carousel;
+					carousel.render({
+					elem: '#ID-image',
+					width: 280,
+					height: 100%,
+					anim:'fade',
+					interval: 2000
+				});
+			});
+		</script>
+	
+
+</body></html>
